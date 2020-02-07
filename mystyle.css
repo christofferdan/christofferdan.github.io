@@ -296,7 +296,7 @@ display:none;
 
 
 @media only screen and (max-width: 1150px)  {
-body {background-color:blue;
+body {background-color:red;
 height:auto;
 margin:0;
 position:absolute;
@@ -310,27 +310,3 @@ width:100%;}
 
 
 
-
-
-
-
-
-@media only screen and (max-width: 605px) %%max hight {
-body {
-	margin:0;
-	background-color:yellow;
-}
-
-h1 {
-	color:blue;
-	font-size:2222px;
-}
-.box {
-	margin:0;}
-img {border:5px solid blue;}
-
-.four {
-	display:none;
-}
-
-}
